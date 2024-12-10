@@ -16,7 +16,7 @@ I kindly request that you accept my submission despite this mistake. In Sha Alla
 
 Thank you for your understanding and consideration. I appreciate the opportunity to participate in this hackathon and will ensure to correct the issue promptly.
 
-**Your obedient servant,**  
+**Your obedient student,**  
 Ibrahim  
 Student ID: `00488299`
 
