@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hackathon Project Submission
 
-## Getting Started
+Hello,
 
-First, run the development server:
+I am **Ibrahim**, a student at the **Governor AI Program**. This is my submission for the hackathon project.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Issue Encountered
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+While working on the project, I mistakenly used a **style guide** instead of the correct **Figma template**. Due to a misunderstanding, I didn't realize my error until after seeing the work of other students. I now realize that my project design does not fully align with the expected template.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Request
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+I kindly request that you accept my submission despite this mistake. In Sha Allah, I will create and submit the **original template** as soon as possible.
 
-## Learn More
+## Conclusion
 
-To learn more about Next.js, take a look at the following resources:
+Thank you for your understanding and consideration. I appreciate the opportunity to participate in this hackathon and will ensure to correct the issue promptly.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Your obedient servant,**  
+Ibrahim  
+Student ID: `00488299`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
